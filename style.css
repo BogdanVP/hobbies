@@ -366,3 +366,7 @@ input[type=submit]:hover{
     background-color: teal;
     color: white;
 }
+.controler{
+    width: 400px;
+    height: 20px;
+}
